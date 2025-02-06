@@ -15,3 +15,11 @@ Este juego consistía en un personaje que movíamos hacia los lados y teníamos 
 ### Juego 4
 Este juego estaba inspirado del famoso fruit ninja, en el que aparecen objetos en la pantalla y tenemos que clicarlos evitando darle a las bombas
 ![image](https://github.com/user-attachments/assets/a6831843-dbd8-4a4a-a2e3-07fa36771265)
+
+## Instalación y ejecución del proyecto
+Cuando descargamos la carpeta de los proyectos podemos ir a Unity Hub y el boton "add" podemos añadir proyectos desde nuestro ordenador ahí seleccionaremos el proyecto que nos interesa. Una vez dentro para ejecutarlo solo necesitaremos darle al play o pulsar ctr p
+
+## Tecnologías utilizadas
+Estos juegos están creados en Unity utilizando el lenguaje de programació C#
+
+

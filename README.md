@@ -13,7 +13,8 @@ Este juego consistía en un personaje que movíamos hacia los lados y teníamos 
 ![image](https://github.com/user-attachments/assets/4344efbb-8ac9-4dff-8af1-844349a56a53)
 
 ### Juego 4
-Este juego estaba inspirado del famoso fruit ninja, en el que aparecen objetos en la pantalla y tenemos que clicarlos evitando darle a las bombas
+Este juego estaba inspirado del famoso fruit ninja, en el que aparecen objetos en la pantalla y tenemos que clicarlos evitando darle a las bombas.
+
 ![image](https://github.com/user-attachments/assets/a6831843-dbd8-4a4a-a2e3-07fa36771265)
 
 ## Instalación y ejecución del proyecto
